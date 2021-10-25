@@ -1,0 +1,18 @@
+[
+    {
+        "id": "212db13b627b7161d062647c7ef493a93c262914bc470db38e686bd8e0fff1a6",
+        "name": "tc",
+        "phrases": [
+            {
+                "id": "566527a9-46e6-6350-7ad5-193affcbed17",
+                "parentId": "",
+                "request": {
+                    "text": "how much does bitcoin cost"
+                },
+                "response": "[{\"text\":\"The current price of Bitcoin is 63094 dollars\",\"rLoc\":{\"file\":\"Bitcoin\",\"line\":68},\"reqId\":\"1635170046860/1\",\"success\":true,\"textInput\":true}]",
+                "meta": "{\"pLoc\":{\"file\":\"Bitcoin\",\"line\":50}}",
+                "visualProperties": "{\"childIndex\":0}"
+            }
+        ]
+    }
+]
