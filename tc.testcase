@@ -1,0 +1,2 @@
+/* Please do not make any changes directly in the file, only through our Platform, otherwise it won't work */
+[{"id":"65a1b778-e73a-c558-0a47-001173b53f5a","parentId":"","request":{"text":"hi"},"response":"[{\"text\":\"Hello\",\"rLoc\":{\"file\":\"SmallTalk\",\"line\":10},\"reqId\":\"1649772055304/1\",\"success\":true,\"textInput\":true}]","meta":"{\"pLoc\":{\"file\":\"SmallTalk\",\"line\":6}}","visualProperties":"{\"childIndex\":0}"}]
